@@ -1,1 +1,1 @@
-# my-syytem-config
+# my-system-config
